@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rizqi Fauzan</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruphasa&label=Profile%20views&color=0e75b6&style=flat" alt="Ruphasa" /> </p>
-
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<p align="center"><img width="240" href="https://tenor.com/view/blue-box-ao-no-hako-hina-chono-sleeping-gif-13360186849255594248" /></p>
 
 # 📊 GitHub Stats:
-!(https://github-readme-stats.vercel.app/api?username=Ruphasa&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Ruphasa&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ruphasa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruphasa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
