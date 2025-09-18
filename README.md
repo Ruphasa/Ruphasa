@@ -1,4 +1,9 @@
-## Hi there 👋
+🌟 Welcome to my GitHub profile! ![GIF](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
+
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 <!--
 **Ruphasa/Ruphasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
